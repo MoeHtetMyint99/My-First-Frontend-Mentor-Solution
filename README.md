@@ -7,6 +7,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [What I learned?](#what-i-learned)  
 - [Author](#author)
 
 ## Overview
@@ -27,6 +28,12 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### What I learned?
+
+- How to write 'Markdown'
+- How to host 'Live Sites'
+- How to initialize my local projects and push them onto my Github account.
 
 ## Author
 
