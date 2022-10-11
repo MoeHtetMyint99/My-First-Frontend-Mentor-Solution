@@ -18,7 +18,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My-First-Frontend-Mentor-Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-FpVU9ltRWE)
 - Live Site URL: [My-First-Frontend-Mentor-Solution](https://moehtetmyint99.github.io/My-First-Frontend-Mentor-Solution/)
 
 ## My process
